@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdul22rehman
-- 👀 I’m interested in ...app development
-- 🌱 I’m currently learning ...android development
-- 💞️ I’m looking to collaborate with someone who is working on app 
+- 👀 I’m interested in ...Web development
+- 🌱 I’m currently learning ...Web development
+- 💞️ I’m looking to collaborate with someone who is working on web development
 - 📫 How to reach me ...9870855518 call me
 
 <!---
